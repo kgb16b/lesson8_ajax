@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 14, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kaelen Birkholz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Create a program that displays movie information.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kgb16b.github.io/lesson8_ajax/index.html 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Ajax does not require the reloading of an entire web page to allow client web pages to exchange data with a web server. 
+2. JSON is a data interchange format that allows data from a web server to be displayed on a web page. 
+3. An API allows software developers to produce programs that are powered by other Web service. 
